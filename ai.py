@@ -7,4 +7,4 @@ class AI(Player):
 
     def choose_gesture(self):
         bot_selects = random.choice(self.choice)
-        return BOT_SELECTS
+        return bot_selects
